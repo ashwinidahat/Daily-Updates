@@ -1,4 +1,5 @@
-27/12/22
+28/12/22 
+print rectangular pattern in c++
  
   
    
